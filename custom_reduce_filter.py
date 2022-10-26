@@ -8,3 +8,6 @@ Write a Python program to implement your own myfilter() function which works exa
 like Python's built-in function filter()
 
 """
+
+# Reduce will produce a single result
+def myreduce(anyfunc, sequence):
