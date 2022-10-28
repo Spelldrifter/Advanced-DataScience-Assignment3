@@ -11,3 +11,5 @@ like Python's built-in function filter()
 
 # Reduce will produce a single result
 def myreduce(anyfunc, sequence):
+
+ # Get first item in sequence and assign to result
