@@ -15,3 +15,5 @@ def myreduce(anyfunc, sequence):
  # Get first item in sequence and assign to result
   result = sequence[0]
  # iterate over remaining items in sequence and apply reduction function 
+  for item in sequence[1:]:
+   result = anyfunc(result, item)
