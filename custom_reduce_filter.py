@@ -20,3 +20,6 @@ def myreduce(anyfunc, sequence):
 
   return result
 
+
+# Custom filter function 
+def myfilter(anyfunc, sequence):
