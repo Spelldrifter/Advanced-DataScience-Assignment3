@@ -19,3 +19,4 @@ def myreduce(anyfunc, sequence):
    result = anyfunc(result, item)
 
   return result
+
