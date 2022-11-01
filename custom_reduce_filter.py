@@ -17,3 +17,5 @@ def myreduce(anyfunc, sequence):
  # iterate over remaining items in sequence and apply reduction function 
   for item in sequence[1:]:
    result = anyfunc(result, item)
+
+  return result
