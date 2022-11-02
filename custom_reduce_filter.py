@@ -29,3 +29,6 @@ def myfilter(anyfunc, sequence):
  # iterate over sequence of items in sequence and apply filter function
  for item in sequence:
   if anyfunc(item):
+   result.append(item)
+
+ # return funal output
