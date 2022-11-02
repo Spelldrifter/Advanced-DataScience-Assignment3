@@ -23,3 +23,5 @@ def myreduce(anyfunc, sequence):
 
 # Custom filter function 
 def myfilter(anyfunc, sequence):
+
+ # Initialize empty list
