@@ -32,3 +32,7 @@ def myfilter(anyfunc, sequence):
    result.append(item)
 
  # return funal output
+ return result
+
+
+# test myreduce function
