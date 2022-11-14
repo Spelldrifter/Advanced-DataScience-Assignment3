@@ -40,3 +40,5 @@ def sum(x,y): return x + y
 
 # test myfilter function
 def ispositive(x):
+ if (x <= 0): 
+  return False 
