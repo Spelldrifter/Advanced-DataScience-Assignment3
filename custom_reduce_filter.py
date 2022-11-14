@@ -36,3 +36,4 @@ def myfilter(anyfunc, sequence):
 
 
 # test myreduce function
+def sum(x,y): return x + y
