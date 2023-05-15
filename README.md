@@ -1,1 +1,1 @@
-# Advanced Data Science Assignment 3\n```\n#### Problem Statement​ ​1:\n![alt text]("Write a Python Program to implement your own myreduce() function which works exactly like Python's built-in function reduce()")\n#### Problem Statement​ ​2:\n![alt t
+# Advanced Data Science Assignment 3\n```\n#### Problem Statement​ ​1:\n![alt text]("Write a Python Program to implement your own myreduce() function which works exactly like Python's built-in function reduce()")\n#### Problem Statement​ ​2:\n![alt tex
